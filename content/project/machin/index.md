@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: ""
 url_pdf: ""
 date: 2021-08-18T17:51:35.489Z
 summary: Reinforcement learning framework tailored for PyTorch.
@@ -8,7 +8,7 @@ title: Machin
 featured: false
 tags:
   - Deep Learning
-external_link: '""'
+external_link: ""
 url_slides: ""
 links:
   - icon: github
