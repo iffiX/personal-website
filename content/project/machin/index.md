@@ -1,33 +1,24 @@
 ---
-title: Machin
+slides: example
+url_pdf: ""
 summary: Reinforcement learning framework tailored for PyTorch.
+url_video: ""
+date: 2021-08-19T00:00:00Z
+external_link: https://github.com/iffiX/machin
+url_slides: ""
+title: Machin
 tags:
-- Deep Learning
-date: "2021-08-19T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
+  - Deep Learning
+links:
+  - icon: github
+    icon_pack: fab
+    name: star
+    url: https://github.com/iffiX/machin
 image:
   caption: Machin
   focal_point: Smart
-
-links:
-- icon: github
-  icon_pack: fab
-  name: star
-  url: https://github.com/iffiX/machin
+  filename: machin.png
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 <div align="center">
