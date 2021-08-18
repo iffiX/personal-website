@@ -5,8 +5,8 @@ avatar_filename: face.jpg
 bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Reinforcement Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,7 +34,10 @@ highlight_name: false
 ---
 I’m an M.S. student in Computer Science at Northwestern University focusing on developing interpretable and generalizable intelligent systems, especially in the domain of NLP and RL, solving tasks such as reasoning and planning which usually involve processing abilities on a higher level of abstraction. 
 
-(An example for "higher level of abstraction":: Searching was a research topic in AI, Image and Voice recognition are on the edge of being evicted from AI, AI is always a dynamic topic that shifts from time to time, and tasks are becoming more general in recent years.)
+<details>
+<summary>What is "higher level of abstraction"?</summary>
+An example: Searching was a research topic in AI, Image and Voice recognition are on the edge of being evicted from AI, AI is always a dynamic topic that shifts from time to time, and tasks are becoming more general in recent years, involving abstract targets such as understanding the relations between entities in a visual scene, performing commonsense reasoning on the textual sequence and planning with human-designed abstract targets in RL.
+</details>
 
 My current goal of research could be expressed as 2 divisions: 
 
@@ -43,7 +46,7 @@ My current goal of research could be expressed as 2 divisions:
    <details>
    <summary>Details on this topic</summary>
 
-   There exist many ways to improve the interpretability of intelligent algorithms, which are outlined clearly in this [paper](https://www.mdpi.com/2079-9292/8/8/832/pdf). Intrinsically interpretable models are one of them that could possibly help humans learn structured knowledge in the process of interpretation. Methods used in this area include imposing sparsity constraints such as limiting related representations [\[1]](https://arxiv.org/pdf/1809.04506.pdf) and using simpler surrogate models [\[2]](https://arxiv.org/pdf/1807.05887.pdf) [\[3]](https://arxiv.org/pdf/1610.05984.pdf) [\[4]](https://arxiv.org/pdf/1712.04170.pdf) [\[5]](https://arxiv.org/pdf/1804.02477.pdf), or using causality relations [\[6]](https://arxiv.org/pdf/1811.00090.pdf), and hierarchical learning [\[7]](https://arxiv.org/pdf/1611.01796.pdf) [\[8]](https://arxiv.org/pdf/1712.07294.pdf).
+   There exist many ways to improve the interpretability of intelligent algorithms, which are outlined clearly in this [paper](https://www.mdpi.com/2079-9292/8/8/832/pdf). Intrinsically interpretable models are one of them that could possibly help humans learn structured knowledge in the process of interpretation. Methods used in this area include imposing sparsity constraints such as limiting related representations [(1)](https://arxiv.org/pdf/1809.04506.pdf) and using simpler surrogate models [(2)](https://arxiv.org/pdf/1807.05887.pdf) [(3)](https://arxiv.org/pdf/1610.05984.pdf) [(4)](https://arxiv.org/pdf/1712.04170.pdf) [(5)](https://arxiv.org/pdf/1804.02477.pdf), or using causality relations [(6)](https://arxiv.org/pdf/1811.00090.pdf), and hierarchical learning [(7)](https://arxiv.org/pdf/1611.01796.pdf) [(8)](https://arxiv.org/pdf/1712.07294.pdf).
 
    </details>
 
@@ -52,7 +55,7 @@ My current goal of research could be expressed as 2 divisions:
    <details>
    <summary>Details on this topic</summary>
 
-   While current deep neural models perform incredibly well on raw features, they lack generalizability when dealing with inputs from different modalities. This [survey](https://arxiv.org/pdf/1705.09406.pdf) provides an overview of joint and coordinated representations used to cope with the problem, but there exists a vast amount of structured knowledge sources, such as knowledge bases, relational/non-relational databases, apart from popular datasets. Incorporating these more complex forms of knowledge requires specially engineered methods [\[9]](https://arxiv.org/pdf/1909.07606.pdf) [\[10]](https://arxiv.org/pdf/1909.08402.pdf).
+   While current deep neural models perform incredibly well on raw features, they lack generalizability when dealing with inputs from different modalities. This [survey](https://arxiv.org/pdf/1705.09406.pdf) provides an overview of joint and coordinated representations used to cope with the problem, but there exists a vast amount of structured knowledge sources, such as knowledge bases, relational/non-relational databases, apart from popular datasets. Incorporating these more complex forms of knowledge requires specially engineered methods [(9)](https://arxiv.org/pdf/1909.07606.pdf) [(10)](https://arxiv.org/pdf/1909.08402.pdf).
 
    </details>
 
