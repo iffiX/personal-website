@@ -10,16 +10,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: muhanli2022@u.northwestern.edu
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:muhanli2022@u.northwestern.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/iffiX
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%B2%90%E6%99%97-%E6%9D%8E-5129111b7/
 organizations:
   - name: Northwestern University
     url: https://www.northwestern.edu/
@@ -46,7 +43,7 @@ My current goal of research could be expressed as 2 divisions:
    <details>
    <summary>Details on this topic</summary>
 
-There exist many ways to improve the interpretability of intelligent algorithms, which are outlined clearly in this paper. Intrinsically interpretable models are one of them that could possibly help humans learn structured knowledge in the process of interpretation. Methods used in this area include imposing sparsity constraints such as limiting related representations \[1] and using simpler surrogate models \[2] \[3] \[4] \[5], or using causality relations \[6], and hierarchical learning \[7] \[8].
+   There exist many ways to improve the interpretability of intelligent algorithms, which are outlined clearly in this [paper](https://www.mdpi.com/2079-9292/8/8/832/pdf). Intrinsically interpretable models are one of them that could possibly help humans learn structured knowledge in the process of interpretation. Methods used in this area include imposing sparsity constraints such as limiting related representations [\[1]](https://arxiv.org/pdf/1809.04506.pdf) and using simpler surrogate models [\[2]](https://arxiv.org/pdf/1807.05887.pdf) [\[3]](https://arxiv.org/pdf/1610.05984.pdf) [\[4]](https://arxiv.org/pdf/1712.04170.pdf) [\[5]](https://arxiv.org/pdf/1804.02477.pdf), or using causality relations [\[6]](https://arxiv.org/pdf/1811.00090.pdf), and hierarchical learning [\[7]](https://arxiv.org/pdf/1611.01796.pdf) [\[8]](https://arxiv.org/pdf/1712.07294.pdf).
 
    </details>
 
@@ -55,7 +52,7 @@ There exist many ways to improve the interpretability of intelligent algorithms,
    <details>
    <summary>Details on this topic</summary>
 
-   While current deep neural models perform incredibly well on raw features, they lack generalizability when dealing with inputs from different modalities. This survey provides an overview of joint and coordinated representations used to cope with the problem, but there exists a vast amount of structured knowledge sources, such as knowledge bases, relational/non-relational databases, apart from popular datasets. Incorporating these more complex forms of knowledge requires specially engineered methods \[9] \[10].
+   While current deep neural models perform incredibly well on raw features, they lack generalizability when dealing with inputs from different modalities. This [survey](https://arxiv.org/pdf/1705.09406.pdf) provides an overview of joint and coordinated representations used to cope with the problem, but there exists a vast amount of structured knowledge sources, such as knowledge bases, relational/non-relational databases, apart from popular datasets. Incorporating these more complex forms of knowledge requires specially engineered methods [\[9]](https://arxiv.org/pdf/1909.07606.pdf) [\[10]](https://arxiv.org/pdf/1909.08402.pdf).
 
    </details>
 
