@@ -8,7 +8,7 @@ title: Machin
 featured: false
 tags:
   - Deep Learning
-external_link: https://github.com/iffiX/machin
+external_link: '""'
 url_slides: ""
 links:
   - icon: github
