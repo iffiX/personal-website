@@ -41,6 +41,16 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Artificial intelligence, is one crown jewel in the field of computer science, which could be rather hard to define due to its dependency on contextual meaning, professionality of audience, and contemporary technology frontiers. This (post) [https://www.sharper.ai/taxonomy-ai/] provides a clear definition on the taxonomy of artificial intelligence from multiple dimensions, and from a reasearcher's perspective, the algorithm paradigm segmentation from the post, originally described by Pedro Domingos in a 2015 ("Talk at Google")[https://www.youtube.com/watch?v=B8J4uefCQMc] fits our need of introducing interests and main focus better than other
+Artificial intelligence, is one crown jewel in the field of computer science, which could be rather hard to define due to its dependency on contextual meaning, professionality of audience, and contemporary technology frontiers. This (post) \[https://www.sharper.ai/taxonomy-ai/] provides a clear definition on the taxonomy of artificial intelligence from multiple dimensions, and from a reasearcher's perspective, the algorithm paradigm segmentation from the post, originally described by Pedro Domingos in a 2015 ("Talk at Google")\[https://www.youtube.com/watch?v=B8J4uefCQMc] fits our need of introducing interests and main focus better than other
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     \* With some
+     \* Sub bullets
+</details>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
