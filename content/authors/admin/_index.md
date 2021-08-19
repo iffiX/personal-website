@@ -25,7 +25,7 @@ education:
     - course: MSc in Computer Science
       institution: Northwestern University
       year: 2020
-    - course: BSc in Computer Science
+    - course: BEng in Computer Science
       institution: Sun Yat-sen University
       year: 2016
 email: ""
