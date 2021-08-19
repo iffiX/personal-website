@@ -1,7 +1,14 @@
 ---
-abstract: >-
-We introduce a method to extend the vocabulary encoding of BERT with context encoding containing rich information of a input token, in a given sequence of text. The context encoding is output by another BERT model, named as CTX-BERT, dedicated to infer relations to entities of the specified token in its context. To simplify the model, we combine there objectives: entity detection, entity encoding and relation recovery into one by requiring CTX-BERT to recover the relation triples as as a textual sequence when given a context sequence with the target token masked. Experimental results demonstrate that CTX-BERT could enhance the performance of the second BERT on question answering tasks. 
-
+abstract: "We introduce a method to extend the vocabulary encoding of BERT with
+  context encoding containing rich information of an input token, in a given
+  sequence of text. The context encoding is output by another BERT model, named
+  CTX-BERT, dedicated to infer relations to entities of the specified token in
+  its context. To simplify the model, we combine three objectives: entity
+  detection, entity encoding, and relation recovery into one by requiring
+  CTX-BERT to recover the relation triples as a textual sequence when given a
+  context sequence with the target token masked. Experimental results
+  demonstrate that CTX-BERT could enhance the performance of the second BERT on
+  question answering tasks. "
 slides: ""
 url_pdf: ""
 publication_types:
@@ -10,11 +17,19 @@ publication_types:
 authors:
   - admin
   - David Demeter
-author_notes: []
-publication: ""
-summary: We introduce a method to extend the vocabulary encoding of BERT with context encoding of a input token, with information from knowledge bases, in a given sequence of text.
+summary: We introduce a method to extend the vocabulary encoding of BERT with
+  context encoding of a input token, with information from knowledge bases, in a
+  given sequence of text.
+"We introduce a method to extend the vocabulary encoding of BERT with context encoding containing rich information of a input token, in a given sequence of text. The context encoding is output by another BERT model, named as CTX-BERT, dedicated to infer relations to entities of the specified token in its context. To simplify the model, we combine there objectives":
+  entity detection, entity encoding and relation recovery into one by requiring
+  CTX-BERT to recover the relation triples as as a textual sequence when given a
+  context sequence with the target token masked. Experimental results
+  demonstrate that CTX-BERT could enhance the performance of the second BERT on
+  question answering tasks.
 url_dataset: ""
 url_project: ""
+author_notes: []
+publication: ""
 publication_short: In *ICLR 2022*
 url_source: ""
 url_video: ""
