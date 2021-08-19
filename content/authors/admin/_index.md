@@ -59,4 +59,4 @@ My current goal of research could be expressed as 2 divisions:
 
    </details>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv_muhan_li.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_muhan_li.pdf" "newtab" >}}resumé{{< /staticref >}}.
