@@ -24,10 +24,10 @@ education:
   courses:
     - course: MSc in Computer Science
       institution: Northwestern University
-      year: 2020
+      year: 2022 (expected)
     - course: BEng in Computer Science
       institution: Sun Yat-sen University
-      year: 2016
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
