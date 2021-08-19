@@ -18,7 +18,7 @@ links:
 image:
   caption: Machin
   focal_point: Smart
-  filename: machin.png
+  filename: featured.png
 url_code: ""
 ---
 
