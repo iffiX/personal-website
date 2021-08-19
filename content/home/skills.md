@@ -29,9 +29,17 @@ feature:
   icon_pack: fab
   name: Containerized DevOps
 - description: ""
+  icon: ""
+  icon_pack: ""
+  name: ""
+- description: ""
   icon: server
   icon_pack: fas
   name: High-performance computing
+- description: ""
+  icon: ""
+  icon_pack: ""
+  name: ""
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
