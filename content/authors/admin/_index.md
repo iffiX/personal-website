@@ -1,7 +1,7 @@
 ---
 title: Muhan Li
 role: Master of Science CS student
-avatar_filename: face.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
@@ -59,4 +59,4 @@ My current goal of research could be expressed as 2 divisions:
 
    </details>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv_muhan_li.pdf" "newtab" >}}resumé{{< /staticref >}}.
