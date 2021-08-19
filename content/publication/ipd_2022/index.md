@@ -25,7 +25,7 @@ authors:
   - Uri Wilensky
 author_notes: []
 publication: ""
-summary: This research is conducted on inspecting the performance of a
+summary: This research is conducted to inspect the performance of a
   value-based statistical algorithm on a network where each agent pair plays an
   extension of the iterated prisoner’s dilemma game (IPD).
 url_dataset: ""
@@ -43,7 +43,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: vis-view-grid.png
+  filename: featured.png
 date: 2021-08-19T04:17:16.742Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
