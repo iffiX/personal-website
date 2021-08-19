@@ -18,16 +18,16 @@ abstract: >-
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
   - "3"
+  - "1"
 authors:
   - admin
   - Uri Wilensky
 author_notes: []
 publication: ""
-summary: This research is conducted to inspect the performance of a
-  value-based statistical algorithm on a network where each agent pair plays an
-  extension of the iterated prisoner’s dilemma game (IPD).
+summary: This research is conducted to inspect the performance of a value-based
+  statistical algorithm on a network where each agent pair plays an extension of
+  the iterated prisoner’s dilemma game (IPD).
 url_dataset: ""
 url_project: ""
 publication_short: In *ICAART 2022*
@@ -46,8 +46,7 @@ image:
   filename: featured.png
 date: 2021-08-19T04:17:16.742Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
