@@ -46,7 +46,7 @@ image:
   filename: featured.png
 date: 2021-08-19T04:17:16.742Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-08-19T04:17:16.742Z
 url_poster: ""
 url_code: ""
 ---
